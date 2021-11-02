@@ -6,7 +6,7 @@ Branch `master` is generally based on 1.14 textures. Later I might introduce a b
 ## How do I download it?
 If you're on Github, click on green "Code" button above the file list and pick '**Download ZIP**'. Use the ZIP as you'd use regular Texture Pack.
 ## License
-#### [**CC BY-SA (Attribution-ShareAlike)**](Attribution-ShareAlike "CC BY-SA (Attribution-ShareAlike)")
+#### [**CC BY-SA (Attribution-ShareAlike)**](https://creativecommons.org/licenses/by-sa/4.0/)
 Modifications I did are licensed under CC BY-SA, but I should be clear that since this texture pack adopts more "conservative" approach, all the assets in it are heavily based on Minecraft’s original textures, which belong to Mojang with respective licensies.
 
 ## Credits
